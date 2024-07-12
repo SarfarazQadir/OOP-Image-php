@@ -1,5 +1,5 @@
 <h1>INSERT DATA </h1>
-![image](https://github.com/user-attachments/assets/699c876f-74e7-465f-b4a3-16878337cc64)
+![image](https://github.com/user-attachments/assets/82bbef46-7410-4086-bf71-49c74406b233)
 
 <h1>FETCH DATA </h1>
 
