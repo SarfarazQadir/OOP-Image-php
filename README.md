@@ -1,3 +1,5 @@
+<h1>INSERT DATA </h1>
+![image](https://github.com/user-attachments/assets/699c876f-74e7-465f-b4a3-16878337cc64)
 
 <h1>FETCH DATA </h1>
 
