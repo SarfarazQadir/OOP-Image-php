@@ -14,8 +14,8 @@ class Database{
     $query = "INSERT INTO `product`(`name`, `price`, `image`, `quantity`, `discription`, `date`) VALUES ('$name','$price','$folder','$quantity','$discription','$date')";
     $result = mysqli_query($this->con, $query);
     if($result){
-        return true;
-    }else{
+        return true;    
+    }else{  
         return false;
     }
 }
