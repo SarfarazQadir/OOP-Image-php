@@ -7,6 +7,9 @@
 
 ![image](https://github.com/user-attachments/assets/86d71934-7cbf-4852-ba80-054239f17d59)
 
+
+![image](https://github.com/user-attachments/assets/86d71934-7cbf-4852-ba80-054239f17d59)
+
 <h1>UPDATE DATA </h1>
 
 <h1>Delete DATA </h1>
